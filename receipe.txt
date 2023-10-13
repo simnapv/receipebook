@@ -1,0 +1,6 @@
+receipe name:butter chicken
+incredient:
+chicken:1kg
+chilli powder:100g
+peppar:50kg
+salt 
